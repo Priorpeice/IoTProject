@@ -12,7 +12,7 @@
 - 프로그래밍 언어: php , C++
 - 개발도구 : VS Code , Arduino IDE
 - DBMS: Mysql
-- 하드웨어 장비: Arduino uno 3, MFRC-522(RFID 모듈)
+- 하드웨어 장비: Arduino uno 3, MFRC-522(RFID 모듈), ESP8266 ESP-01 (WI-FI 모듈)
 
 ## 🧾 시스템 아키텍처
 
